@@ -10,14 +10,14 @@ function App() {
           <p>
             Open sourced on{" "}
             <a
-              href="https://github.com/Andee-R/weather-app-react"
+              href="https://github.com/Andee-R/weather-app-2.0"
               target="_blank"
               rel="noopener noreferrer">
               Github
             </a>
             , hosted on{" "}
             <a
-              href="https://tranquil-scone-a86042.netlify.app/"
+              href="https://celebrated-begonia-052792.netlify.app/"
               target="_blank"
               rel="noopener noreferrer">
               Netlify
